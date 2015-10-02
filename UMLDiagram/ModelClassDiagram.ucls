@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CurseOfMalphamondModelImpl" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CurseOfMalphamondModelImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="386" width="273" x="341" y="62"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondConnectionManager.ConnectionManager" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondConnectionManager/ConnectionManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="812" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CurseOfMalphamondModelProxy" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CurseOfMalphamondModelProxy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="162" y="355"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondConnectionManager.Messenger" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondConnectionManager/Messenger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="171" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Actor.Actor" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Actor/Actor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="430" y="-477"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Player" project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Player.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="762" y="-41"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Actor.Monster" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Actor/Monster.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="135" y="-476"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Actor.Boss" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Actor/Boss.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="427" y="-272"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Actor.Character" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Actor/Character.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="758" y="-277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Tile.Tile" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Tile/Tile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="157" y="49"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Tile.EmptyTile" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Tile/EmptyTile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-133" y="53"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Tile.ActionTile" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Tile/ActionTile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-135" y="212"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Tile.MonsterTile" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Tile/MonsterTile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-134" y="-94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CardContainer.CardContainer" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CardContainer/CardContainer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1042" y="-279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CardContainer.Deck" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CardContainer/Deck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1046" y="-45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CardContainer.UsedCards" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CardContainer/UsedCards.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1042" y="-475"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Position" 
+    project="CurseOfMalphamond" file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Position.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="762" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Dice" project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Dice.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="475" y="-52"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CardContainer.ResourceDeck" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CardContainer/ResourceDeck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1319" y="-277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.Card.Card" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/Card/Card.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1325" y="-54"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.CardContainer.Hand" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/CardContainer/Hand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="760" y="-466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="edu.jhu.cs.pl.group18.CurseOfMalphamondModel.ModelListener" 
+    project="CurseOfMalphamond" 
+    file="/CurseOfMalphamond/src/edu/jhu/cs/pl/group18/CurseOfMalphamondModel/ModelListener.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="257"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="23">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="25">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="26" name="deck"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="28">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="29">    
+    <bendpoint x="321" y="47"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="30" name="dice"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="33">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="35">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="36" name="character"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="cards"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="44">    
+    <bendpoint x="576" y="-185"/>    
+    <bendpoint x="577" y="-341"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="45" name="hand"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="48">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="49" name="board"/>      
+      <multiplicity id="50" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="tiles"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <bendpoint x="896" y="-180"/>    
+    <bendpoint x="894" y="-363"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="55" name="usedCards"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="58" name="dice"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="61" name="messenger"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="64" name="monster"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

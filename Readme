@@ -1,0 +1,75 @@
+##################################################################
+		CurseOfMalphamond ----------  v1.6 
+		     Readme for iteration 6
+		Author: Andy Yang, Vincent Yan, Xuchen Ma
+			Yijie Li, Yunlong Liu
+
+		Date : 12/17/2014
+		Contact : yliu120@jhmi.edu
+			  sophialyj@jhmi.edu
+			  vyan1@jhu.edu
+		          maxuchen1994@jhu.edu
+			  jyang99@jhu.edu
+##################################################################
+
+For the course purposes, we have complete the game. The game has expected
+functionalities and we wrap our model with a very pretty UI.
+
+For introduction and more information, please see our webpage for iterat-
+ion 6. If you have any questions, please contact us freely.
+
+1) How to compile:
+
+*) We provide a pre-compiled files in our bin folder, namely:
+	 ( compiled under java 1.7 )
+   We didn't bundle them into a jar file.
+
+*) You can compile the code on your own machine by:
+	adding the libraries, kryonet, junit, lwjgl we provided in the lib/
+	folder to your classpath. This can be done by -cp or -classpath
+	flags
+   e.g. java -cp .:./lib/k*.jar.:./lib/junit*.jar.:./lib/lwjgl*.jar \
+	`find ./src -type f | grep java` -d <your directory>
+
+*) You can pull our code into eclipse project and edit build path to compile
+   as well.
+
+2) How to run the code
+
+* 0) Open ONE terminal for server, open four terminals for exactly four
+     clients.
+
+* 1) Please go to the bin folder of this game ../CurseOfMalphamond/bin
+* 2) Start the serverside first by this command:
+
+java -cp .:../lib/kryonet-2.21-all.jar \
+edu.jhu.cs.pl.group18.CurseOfMalphamondUI.Main.ServerSide
+
+* 3) Start the clientside either in Eclipse (No client terminal needed) or 
+     by typing in the client terminal.
+
+java -cp .:../lib/kryonet-2.21-all.jar \
+edu.jhu.cs.pl.group18.CurseOfMalphamondUI.Main.CurseOfMalphamondUIMain
+
+in the clients terminal. If you are in Eclipse, 
+run the associate java as Java application.
+
+* 4) When you start the client side, the login window will ask for the username
+and it will jumps to the second frame to select Character.
+
+* 5) After selecting the character, the game frame will open up and you
+need to register all 4 players to automatically start the game. Then enjoy!
+
+*******************************
+3) What we did after final demo
+*******************************
+
+* 1) We fix a bug that associates with the healing fountain
+* 2) We fix a bug associated with monster revive.
+* 3) We fix a bug that soundmanagers can't close correctly.
+* 4) We take Zach's advice to move image scaling into our image loader.
+     Our UI becomes more smooth.
+
+
+
+
